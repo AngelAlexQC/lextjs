@@ -1,5 +1,7 @@
 # lextjs
 
+Fullstack framework for building web applications with TypeScript. Powered by [Bun](https://bun.sh).
+
 To install dependencies:
 
 ```bash
